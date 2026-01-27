@@ -30,5 +30,30 @@ This project is part of my **daily learning journey** and long-term commitment t
 
 ---
 
-## 📂 Folder Structure
+# 🤖 Huma AI – Personal Learning AI
+
+Huma AI is a personal AI project built from scratch using Python.
+The goal of this project is to understand how AI works internally
+by building memory, training, emotion handling, and personalization
+step by step.
+
+This is NOT a chatbot API project.
+This is a foundation-level AI system.
+
+---
+
+## ✨ Features
+
+- Multi-user support (separate memory per user)
+- Emotion detection and emotion history
+- Learning preferred names and phrases per user
+- Training data collection (questions + intent)
+- Context-aware behavior
+- Clear AI system prompt (brain rules)
+- No internet, no API, no ML (pure logic)
+
+---
+
+## 🗂 Project Structure
+
 
