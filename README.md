@@ -140,3 +140,59 @@ It is not meant to compete with large AI models.
 ---
 
 > Building intelligence is a process, not a shortcut.
+
+# Sora AI 🎥
+
+**Text-to-Video Generation using Deep Learning**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
+[![OpenAI Compatible](https://img.shields.io/badge/OpenAI-Compatible-green.svg)](https://openai.com/)
+[![Discord](https://img.shields.io/discord/your-server-id.svg)](https://discord.gg/your-invite)
+
+> ⚠️ **Note**: This is an open-source implementation inspired by OpenAI's Sora. This project is for educational and research purposes.
+
+---
+
+## ✨ Features
+
+### 🚀 Core Features
+- **Text-to-Video Generation**: Convert natural language descriptions into high-quality videos
+- **Video Extension**: Extend existing videos seamlessly
+- **Style Transfer**: Apply artistic styles to generated videos
+- **Resolution Upscaling**: Generate up to 1080p resolution videos
+- **Multi-modal Input**: Support for text, images, and audio prompts
+
+### 🛠️ Technical Features
+- **Diffusion Models**: State-of-the-art video generation
+- **Transformer Architecture**: Scalable and efficient processing
+- **GPU Acceleration**: CUDA support for fast inference
+- **API Support**: RESTful API for easy integration
+- **Batch Processing**: Generate multiple videos simultaneously
+
+---
+
+## 📦 Installation
+
+### Prerequisites
+- Python 3.8+
+- CUDA-compatible GPU (16GB+ VRAM recommended)
+- FFmpeg installed
+
+### Quick Install
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/sora-ai.git
+cd sora-ai
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Install with GPU support
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
