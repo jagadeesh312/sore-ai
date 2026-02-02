@@ -1,4 +1,4 @@
-# sore-ai
+# sora-ai
 personal assistant 
 # 🤖 Personal AI Project
 
