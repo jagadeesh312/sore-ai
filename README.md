@@ -196,3 +196,7 @@ pip install -r requirements.txt
 
 # Install with GPU support
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
+
+we are going got friend
+
