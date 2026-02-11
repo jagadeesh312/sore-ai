@@ -198,5 +198,28 @@ pip install -r requirements.txt
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 
 
-we are going got friend
+## 🧠 About This Project
+
+Huma AI is a small experimental project where I am building an AI system from scratch using Python.
+
+The purpose of this project is to understand how artificial intelligence works internally — not by using large external APIs, but by designing logic, memory, and learning behavior step by step.
+
+Instead of starting with machine learning immediately, this project focuses on:
+
+- Building a rule-based reasoning system
+- Creating user-specific memory storage
+- Tracking emotion scores over time
+- Learning simple phrases and preferences
+- Structuring conversations logically
+
+The idea is to simulate how a human might process information:
+1. Analyze input  
+2. Detect intent  
+3. Extract important data  
+4. Store useful knowledge  
+5. Respond based on context and emotion  
+
+Machine Learning integration is planned for later stages, once the logical foundation is stable.
+
+This project is primarily for learning, experimentation, and understanding AI system design from the ground up.
 
