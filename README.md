@@ -223,3 +223,73 @@ Machine Learning integration is planned for later stages, once the logical found
 
 This project is primarily for learning, experimentation, and understanding AI system design from the ground up.
 
+
+# 🤖 Sora AI
+
+**Sora AI** is a personal AI assistant project designed to help with everyday tasks, conversations, learning, coding, and productivity.
+
+The project explores how AI can become a useful personal digital assistant through text, voice, and intelligent responses.
+
+## ✨ Features
+
+- 💬 AI-powered conversations
+- 🧠 Intelligent responses
+- 🎙️ Voice assistant capabilities
+- 📚 Learning assistance
+- 💻 Coding assistance
+- 🔎 Information search
+- 📝 Text generation
+- ⚡ Productivity assistance
+- 🌐 Web-based interface
+
+## 🎯 Project Goal
+
+The goal of Sora AI is to build a personal AI assistant that can understand user requests and provide useful responses through a simple and modern interface.
+
+## 🛠️ Technologies
+
+The project may use technologies such as:
+
+- HTML
+- CSS
+- JavaScript
+- AI APIs
+- Gemini / OpenAI APIs
+- Firebase
+- Web Speech API
+
+## 🧠 Future Plans
+
+- 🎙️ Advanced voice conversations
+- 🗣️ Multi-language support
+- 🧠 Long-term memory
+- 📱 Mobile application
+- 🖥️ Desktop assistant
+- 🔗 API integrations
+- 📂 File understanding
+- 🔍 Web search
+- 🤖 AI task automation
+- 🎨 Custom AI personality
+
+## 🚧 Project Status
+
+**Currently in development.**
+
+New features and improvements will be added as the project evolves.
+
+## 👨‍💻 Developer
+
+**Jagadeesh SP**
+
+Computer Science Student & Developer
+
+GitHub: `@jagadeesh312`
+
+## ⭐ Support
+
+If you find this project interesting, consider giving the repository a ⭐.
+
+---
+
+**Sora AI — A personal AI assistant built step by step. 🤖**
+
