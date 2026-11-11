@@ -293,3 +293,53 @@ If you find this project interesting, consider giving the repository a ⭐.
 
 **Sora AI — A personal AI assistant built step by step. 🤖**
 
+# 🤖 Sore AI
+
+A personal assistant project built to help with everyday tasks.
+
+## 📌 Overview
+Sore AI is a personal AI assistant that answers questions, manages tasks, and automates small daily activities through a simple interface.
+
+## ✨ Features
+- Answer general questions
+- Reminders and to-do management
+- Quick information lookup
+- Voice or text interaction (planned)
+- Easily extendable with new skills
+
+## 🛠️ Tech Stack
+- **Language:** Python / JavaScript
+- **AI/APIs:** Speech recognition, text-to-speech, LLM API (optional)
+
+## 📁 Project Structure
+```
+sore-ai/
+├── main.py        # Entry point
+├── modules/       # Assistant skills
+├── requirements.txt
+└── README.md
+```
+
+## 🚀 Getting Started
+```bash
+git clone https://github.com/jagadeesh312/sore-ai.git
+cd sore-ai
+pip install -r requirements.txt
+python main.py
+```
+
+## 💡 Usage
+Run the assistant and type or speak a command, for example:
+- "What's the time?"
+- "Remind me to study at 6 PM"
+
+## 🔮 Future Plans
+- Voice wake word
+- Calendar and email integration
+- Custom personality and memory
+
+## 🤝 Contributing
+Pull requests are welcome.
+
+## 📄 License
+MIT License
